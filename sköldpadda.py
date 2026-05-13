@@ -3,6 +3,8 @@ import random
 
 t = turtle.Turtle()
 
+t.pensize(8)
+
 vridning = int(input("Walla vilken vridning? Skriv här brur:"))
 
 
